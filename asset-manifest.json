@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/galeria-imagenes-react/static/css/main.aa097f6b.css",
+    "main.js": "/galeria-imagenes-react/static/js/main.9324baf8.js",
+    "static/js/787.ff4cbe1e.chunk.js": "/galeria-imagenes-react/static/js/787.ff4cbe1e.chunk.js",
+    "static/media/wallpaper.jpg": "/galeria-imagenes-react/static/media/wallpaper.18f4e299a08fca2bb5a4.jpg",
+    "static/media/AvengeanceHeroicAvengerBold-MM2J.ttf": "/galeria-imagenes-react/static/media/AvengeanceHeroicAvengerBold-MM2J.40a605087f9702a9ba86.ttf",
+    "index.html": "/galeria-imagenes-react/index.html",
+    "main.aa097f6b.css.map": "/galeria-imagenes-react/static/css/main.aa097f6b.css.map",
+    "main.9324baf8.js.map": "/galeria-imagenes-react/static/js/main.9324baf8.js.map",
+    "787.ff4cbe1e.chunk.js.map": "/galeria-imagenes-react/static/js/787.ff4cbe1e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aa097f6b.css",
+    "static/js/main.9324baf8.js"
+  ]
+}
