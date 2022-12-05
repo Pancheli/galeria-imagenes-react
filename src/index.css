@@ -11,3 +11,24 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.App {
+  background: url(../public/wallpaper.jpg);
+  background-position: top center;
+  height: 100%;
+  padding: 10px;
+  font-family: 'Avengeance';
+}
+
+@font-face {
+  font-family: 'Avengeance';
+  src: local('Avengeance'), url(./fonts/AvengeanceHeroicAvengerBold-MM2J.ttf) format('truetype');
+}
+
+p {
+  letter-spacing: 2px;
+}
+
+footer {
+  border-top: 1px solid rgba(66, 64, 64, 0.853);
+}
